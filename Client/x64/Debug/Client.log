@@ -1,0 +1,5 @@
+﻿  Client.cpp
+F:\Networking\PingPongNet\Client\Client.cpp(62): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Client.vcxproj -> F:\Networking\PingPongNet\x64\Debug\Client.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
